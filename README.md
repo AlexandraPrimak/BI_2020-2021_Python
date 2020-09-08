@@ -1,1 +1,1 @@
-Kурс по Python
+Kурс по Python!
