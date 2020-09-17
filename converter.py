@@ -10,6 +10,6 @@ elif dimension == 'dm^3':
 elif dimension == 'm^3': 
     print(value * 1000)
 elif dimension == 'km^3': 
-    print(value * 1000000)
+    print(value * (10000 ** 3))
 else: #если ни одно из вышеперечисленных условий не выполнено, конвертер выведет 'Cannot perform operation'
     print('Cannot perform operation')
